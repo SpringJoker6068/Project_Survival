@@ -1,0 +1,135 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Lore/History  ",
+      "color": {
+        "a": 1,
+        "rgb": 10580594
+      }
+    },
+    {
+      "query": "path:Lore/Diseases  ",
+      "color": {
+        "a": 1,
+        "rgb": 3490075
+      }
+    },
+    {
+      "query": "path:Lore/Maps  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Lore/Drugs  ",
+      "color": {
+        "a": 1,
+        "rgb": 5695091
+      }
+    },
+    {
+      "query": "path:\"Lore/Important Groups\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11007
+      }
+    },
+    {
+      "query": "path:Lore/Kingdoms  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "path:Lore/Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    },
+    {
+      "query": "path:Lore/Myths  ",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    },
+    {
+      "query": "path:\"Lore/Celestial/The Gods\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776079
+      }
+    },
+    {
+      "query": "path:\"Lore/Important People/Players\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8585395
+      }
+    },
+    {
+      "query": "path:\"Lore/Important People/The Ahrans\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6068182
+      }
+    },
+    {
+      "query": "path:\"Lore/Important People/Adventurers\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9772317
+      }
+    },
+    {
+      "query": "path:\"Lore/Important People/Aurelians\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14390784
+      }
+    },
+    {
+      "query": "path:\"Lore/Important People/Priests\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"Lore/Important People/Dragons\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3355443
+      }
+    },
+    {
+      "query": "path:\"Lore/Important People/Solus Family\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16751001
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.49088541666667,
+  "lineSizeMultiplier": 2.51171875,
+  "collapse-forces": true,
+  "centerStrength": 0.247395833333333,
+  "repelStrength": 11.09375,
+  "linkStrength": 1,
+  "linkDistance": 300,
+  "scale": 0.5359795996225948,
+  "close": false
+}

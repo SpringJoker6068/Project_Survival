@@ -1,0 +1,1 @@
+[Insert Name Here] is a public living, commercial M-Class Superstructure suspended in Orbit around [Insert Planet Name Here]
