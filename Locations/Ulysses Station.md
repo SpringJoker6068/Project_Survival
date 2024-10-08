@@ -1,0 +1,1 @@
+The Ulysses Station is a public living, commercial [[Structure Class System|M-Class Superstructure]] suspended in Orbit around Ithaka-492 conceived as a primary goal of [[Project Odyssey]].
